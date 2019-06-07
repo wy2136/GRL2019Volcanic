@@ -1,3 +1,12 @@
+# misc
+data/
+cache/
+OLD/
+*.DS_Store
+#figs/
+papers/
+figs/.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
